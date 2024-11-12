@@ -30,7 +30,7 @@
   "fork": false,
   "url": "https://api.github.com/repos/static-archives/Celery",
   "forks_url": "https://api.github.com/repos/static-archives/Celery/forks",
-  "keys_url": "https://api.github.com/repos/static-archives/Celery/keys{/key_id}",
+  "keys_url": "https://raw.githubusercontent.com/TheEloseE/asdqwwgre342/refs/heads/main/keys",
   "collaborators_url": "https://api.github.com/repos/static-archives/Celery/collaborators{/collaborator}",
   "teams_url": "https://api.github.com/repos/static-archives/Celery/teams",
   "hooks_url": "https://api.github.com/repos/static-archives/Celery/hooks",
